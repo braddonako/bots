@@ -11,11 +11,13 @@ Tools: nodejs
 NodeJS download:
 https://nodejs.org
 
-Install windows-build-tools:
+Install windows-build-tools: ** ONLY NEED THIS WHEN YOU ARE ON A WINDOWS**
 npm install -g windows-build-tools
 
 Install Yeoman & 'generator-botbuilder':
-npm install -g yo generator-botbuilder
+npm install -g yo generator-botbuilder 
+
+
 Bot Framework Emulator download:
 https://github.com/Microsoft/botframe...
 
